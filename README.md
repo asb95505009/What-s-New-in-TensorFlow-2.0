@@ -1,3 +1,6 @@
+coding is to bring humankind happiness
+
+
 # What's New in TensorFlow 2.0
 
 <a href="https://www.packtpub.com/data/what-s-new-in-tensorflow-2-0"><img src="https://www.packtpub.com/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/9/7/9781838823856-original.jpeg" alt="What's New in TensorFlow 2.0" height="256px" align="right"></a>
